@@ -1,1 +1,2 @@
-ini adalah file baru untuk coba coba
+ini adalah file baru untuk coba coba 
+ini adalah baris ke 2
